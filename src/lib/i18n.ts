@@ -27,7 +27,9 @@ addMessages('bn', {
 		blessings: 'আশীর্বাদ',
 		blessingsNote: 'Blessings',
 		contact: 'যোগাযোগ',
-		contactNote: 'Contact'
+		contactNote: 'Contact',
+		about: 'আব্রিকের সম্পর্কে',
+		aboutNote: 'About Abrik'
 	},
 	home: {
 		kicker: "Abrik's World",
@@ -63,7 +65,9 @@ addMessages('en', {
 		blessings: 'Blessings',
 		blessingsNote: 'Blessings',
 		contact: 'Contact',
-		contactNote: 'Contact'
+		contactNote: 'Contact',
+		about: 'About',
+		aboutNote: 'About Abrik'
 	},
 	home: {
 		kicker: "Abrik's World",

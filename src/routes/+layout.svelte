@@ -20,7 +20,7 @@
 		{ label: 'nav.diary', note: 'nav.diaryNote', href: '/diary' },
 		{ label: 'nav.moments', note: 'nav.momentsNote', href: '/moments' },
 		{ label: 'nav.blessings', note: 'nav.blessingsNote', href: '/blessings' },
-		{ label: 'nav.contact', note: 'nav.contactNote', href: '/contact' }
+		{ label: 'nav.about', note: 'nav.aboutNote', href: '/about' }
 	];
 
 	function setLanguage(checked: boolean) {
@@ -66,7 +66,7 @@
 
 		{#if menuOpen}
 			<nav id="primary-menu" class="menu-panel" aria-label={$t('nav.primary')}>
-				{#each menuItems as item}
+				{#each menuItems as item }
 					<a
 						href={item.href}
 						onclick={() => {

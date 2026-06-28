@@ -29,7 +29,7 @@
     },
     {
       title: 'Ready for your next launch',
-      label: '04 / Contact',
+      label: '04 / ',
       description:
         'End the experience with a clear call-to-action and a fast route to conversion or discovery.',
       cta: 'Reach out',
